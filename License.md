@@ -1,7 +1,7 @@
 
 ### MongoDB  
  
-**MongoDB Embedded License**
+MongoDB Embedded License
 
 The software accompanying this License Agreement is Copyright (C) 2018 MongoDB, Inc. and is licensed to you on the terms set forth below, or in the alternative and at your election, on the terms of the Server Side Public License, Version 1, a copy of which is either provided in the accompanying file entitled LICENSE-Community.txt, or available at https://www.mongodb.com/licensing/server-side-public-license.
 
