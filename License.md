@@ -1,4 +1,5 @@
-### MongoDB Embedded License – [Link](https://www.mongodb.com/licensing/embedded-license)
+
+### MongoDB Embedded [License](https://www.mongodb.com/licensing/embedded-license)
 
 
 ---
