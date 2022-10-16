@@ -50,4 +50,6 @@ YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. YOU ARE ENTIRELY RESPONSIBLE FOR A
 
 ---
 
+#### [Privacy](https://www.privacypolicies.com/live/15f0d5fc-b6a5-4a89-a304-197f21ff6f2c)
+
 #### [Third-Party Licenses](/License.md)
