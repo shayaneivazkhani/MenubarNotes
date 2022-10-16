@@ -23,14 +23,14 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-## 🖍 Simple Usage Guide 📝
+## Basic Usage 📝
 
 ![HOW to-g](https://user-images.githubusercontent.com/105381967/188494681-b5345282-a888-48b8-a718-320b6c83b709.gif)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-## ☝️Headsup & Consequences💥
+## Headsup & Consequences💥
 
 * The SHOW/SEARCH function is case-sensitive.
 
@@ -44,7 +44,7 @@
 
 ---
 
-# **Limitations of Liability**
+## **Limitations of Liability**
 
 YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. YOU ARE ENTIRELY RESPONSIBLE FOR AND ASSUME ALL RISK FOR USE OF THE SERVICE. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE  AUTHOR OF `4Time Notes`, **Shayan Eivaz Khani**, BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
