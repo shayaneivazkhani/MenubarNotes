@@ -1,4 +1,5 @@
-<img width="919" alt="“›” 2022-10-16 at 00 10 59" src="https://user-images.githubusercontent.com/105381967/196009610-85494da1-cf14-4788-9ac1-a00a25088381.png">
+![arthur-yao-8P_8v-NKDrY-unsplash copy 2](https://user-images.githubusercontent.com/105381967/196203396-0c39c698-e2d9-4d75-a7fe-05aaf0468a9a.jpg)
+
 
 ##### made for Intel 64-bit and arm64 (Apple Silicone) architectures
 ##### ![version: 1](https://img.shields.io/badge/version-1.0.0-success)
