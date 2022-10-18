@@ -1,4 +1,5 @@
 ![arthur-yao-8P_8v-NKDrY-unsplash copy 2](https://user-images.githubusercontent.com/105381967/196203396-0c39c698-e2d9-4d75-a7fe-05aaf0468a9a.jpg)
+![Dark and Light copy 4 2 copy 8](https://user-images.githubusercontent.com/105381967/196477671-b014bf1e-f560-4d31-8871-3642385ece36.jpeg)
 
 
 ##### made for Intel 64-bit and arm64 (Apple Silicone) architectures
