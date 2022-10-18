@@ -1,6 +1,4 @@
 ![arthur-yao-8P_8v-NKDrY-unsplash copy 2](https://user-images.githubusercontent.com/105381967/196203396-0c39c698-e2d9-4d75-a7fe-05aaf0468a9a.jpg)
-![Dark and Light copy 4 2 copy 8](https://user-images.githubusercontent.com/105381967/196477671-b014bf1e-f560-4d31-8871-3642385ece36.jpeg)
-
 
 ##### made for Intel 64-bit and arm64 (Apple Silicone) architectures
 ##### ![version: 1](https://img.shields.io/badge/version-1.0.0-success)
@@ -8,9 +6,24 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+![Dark and Light copy 4 2 copy 8](https://user-images.githubusercontent.com/105381967/196480233-6669659a-312a-456c-b7b9-7a3deb1a9e32.jpeg)
+
+![Dark and Light copy 4 2 copy 4](https://user-images.githubusercontent.com/105381967/196480251-da78233f-6567-4f61-b294-46717db24cb2.jpeg)
+
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## ⭐️ Markdown features 
 
 ![Screenshot 2022-08-28 at 03 01 17](https://user-images.githubusercontent.com/105381967/187053282-285f31bf-7a38-48d7-b95a-31b313615001.png)
+
+![Dark and Light copy 3 2](https://user-images.githubusercontent.com/105381967/196480021-8f3769e6-776e-42ba-88f1-220ce7706bf2.jpeg)
+
+![Dark and Light copy 6](https://user-images.githubusercontent.com/105381967/196480033-816d6ec1-ccfe-428d-87bf-7f3cb39998c7.jpeg)
+
+
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
