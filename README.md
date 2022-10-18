@@ -24,7 +24,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-## Basic Usage 📝
+## Basic Usage (old Beta version) 📝
 
 ![HOW to-g](https://user-images.githubusercontent.com/105381967/188494681-b5345282-a888-48b8-a718-320b6c83b709.gif)
 
