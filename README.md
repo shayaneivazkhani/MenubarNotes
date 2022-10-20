@@ -18,7 +18,7 @@
 
 ![Screenshot 2022-08-28 at 03 01 17](https://user-images.githubusercontent.com/105381967/187053282-285f31bf-7a38-48d7-b95a-31b313615001.png)
 
-![Dark and Light copy 3 2](https://user-images.githubusercontent.com/105381967/196480021-8f3769e6-776e-42ba-88f1-220ce7706bf2.jpeg)
+![Dark and Light copy 3 2](https://user-images.githubusercontent.com/105381967/197071758-863e9d43-5873-47af-8dfe-2e82a174fd2f.jpeg)
 
 ![Dark and Light copy 6](https://user-images.githubusercontent.com/105381967/196480033-816d6ec1-ccfe-428d-87bf-7f3cb39998c7.jpeg)
 
