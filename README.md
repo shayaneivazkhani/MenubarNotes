@@ -6,10 +6,9 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![Dark and Light copy 4 2 copy 8](https://user-images.githubusercontent.com/105381967/196480233-6669659a-312a-456c-b7b9-7a3deb1a9e32.jpeg)
+![Dark and Light copy 4 2 copy 10](https://user-images.githubusercontent.com/105381967/197361326-b9e4ecc3-0571-4a64-9edc-ba5c01cb67f0.jpeg)
 
-![Dark and Light copy 4 2 copy 4](https://user-images.githubusercontent.com/105381967/196480251-da78233f-6567-4f61-b294-46717db24cb2.jpeg)
-
+<img width="1178" alt="“›” 2022-10-22 at 21 52 18" src="https://user-images.githubusercontent.com/105381967/197361336-2a5c122a-4c68-42f2-b9d7-2a781f1de8b7.png">
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -17,12 +16,6 @@
 ## ⭐️ Markdown features 
 
 ![Screenshot 2022-08-28 at 03 01 17](https://user-images.githubusercontent.com/105381967/187053282-285f31bf-7a38-48d7-b95a-31b313615001.png)
-
-![Dark and Light copy 3 2](https://user-images.githubusercontent.com/105381967/197071758-863e9d43-5873-47af-8dfe-2e82a174fd2f.jpeg)
-
-![Dark and Light copy 6](https://user-images.githubusercontent.com/105381967/196480033-816d6ec1-ccfe-428d-87bf-7f3cb39998c7.jpeg)
-
-
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -34,13 +27,6 @@
 
 ![CAPS-g](https://user-images.githubusercontent.com/105381967/188482690-6a230ebe-a83c-4bcf-b945-22b6fbf875e5.gif)
 
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-## Basic Usage (old Beta version) 📝
-
-![HOW to-g](https://user-images.githubusercontent.com/105381967/188494681-b5345282-a888-48b8-a718-320b6c83b709.gif)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
