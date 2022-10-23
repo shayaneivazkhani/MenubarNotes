@@ -2,7 +2,6 @@
 
 ##### made for Intel 64-bit and arm64 (Apple Silicone) architectures
 ##### ![version: 1](https://img.shields.io/badge/version-1.0.0-success)
-##### *soon available on the app store
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
