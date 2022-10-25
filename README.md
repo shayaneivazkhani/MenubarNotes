@@ -32,7 +32,7 @@
 
 * The SHOW/SEARCH function is case-sensitive.
 
-* <img width="1023" alt="Screen Shot 2022-09-14 at 02 36 20 AM" src="https://user-images.githubusercontent.com/105381967/190033358-438503e8-d276-4c3d-97e9-4b63af161f81.png">
+* <img width="1023" alt="190033358-438503e8-d276-4c3d-97e9-4b63af161f81" src="https://user-images.githubusercontent.com/105381967/197894946-91c1ac63-0ec3-4950-8649-547d6da972ab.png">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
