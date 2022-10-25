@@ -7,8 +7,6 @@
 
 ![Dark and Light copy 4 2 copy 10](https://user-images.githubusercontent.com/105381967/197361326-b9e4ecc3-0571-4a64-9edc-ba5c01cb67f0.jpeg)
 
-<img width="1178" alt="“›” 2022-10-22 at 21 52 18" src="https://user-images.githubusercontent.com/105381967/197361336-2a5c122a-4c68-42f2-b9d7-2a781f1de8b7.png">
-
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
