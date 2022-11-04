@@ -29,9 +29,11 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-## Headsup & Consequences💥
+## Headsup, Consequences & Buggs💥
 
 * The SHOW/SEARCH function is case-sensitive.
+
+* ![Image001](https://user-images.githubusercontent.com/105381967/199981100-49380257-0b23-403b-8eda-8ccd16565c86.png)
 
 * <img width="1023" alt="190033358-438503e8-d276-4c3d-97e9-4b63af161f81" src="https://user-images.githubusercontent.com/105381967/197894946-91c1ac63-0ec3-4950-8649-547d6da972ab.png">
 
