@@ -6,12 +6,12 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 
 ----
 
-## ⭐️ Markdown features 
+## Markdown features 
 
 ![Screenshot 2022-08-28 at 03 01 17](https://user-images.githubusercontent.com/105381967/187053282-285f31bf-7a38-48d7-b95a-31b313615001.png)
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+----
 
 
 ## Basic String Transformation features 
