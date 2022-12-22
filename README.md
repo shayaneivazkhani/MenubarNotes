@@ -6,6 +6,7 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+![197361326-b9e4ecc3-0571-4a64-9edc-ba5c01cb67f0](https://user-images.githubusercontent.com/105381967/209121953-f69ddfbb-e1ba-427d-8800-c85647984cff.jpeg)
 
 
 
