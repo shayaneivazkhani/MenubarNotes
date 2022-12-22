@@ -4,7 +4,7 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 
 ##### ![version: 1](https://img.shields.io/badge/version-2.3.0-success) 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+----
 
 ## ⭐️ Markdown features 
 
@@ -14,14 +14,14 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-## ⭐️ String Transformation features 
+## Basic String Transformation features 
 
 ##### In some applications, macOS´s own String transformation options are not available
 
 ![CAPS-g](https://user-images.githubusercontent.com/105381967/188482690-6a230ebe-a83c-4bcf-b945-22b6fbf875e5.gif)
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+----
 
 
 ## Headsup💥
@@ -30,13 +30,9 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 
 * <img width="1023" alt="190033358-438503e8-d276-4c3d-97e9-4b63af161f81" src="https://user-images.githubusercontent.com/105381967/197894946-91c1ac63-0ec3-4950-8649-547d6da972ab.png">
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+----
 
-## Contact
-
-##### Email: shayaneivazkhani@yahoo.se
-
----
+### Contact › shayaneivazkhani@yahoo.se
 
 #### [Third-Party Licenses](/License.md)
 
