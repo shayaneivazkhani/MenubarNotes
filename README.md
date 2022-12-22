@@ -31,7 +31,7 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 
 * <img width="1023" alt="190033358-438503e8-d276-4c3d-97e9-4b63af161f81" src="https://user-images.githubusercontent.com/105381967/197894946-91c1ac63-0ec3-4950-8649-547d6da972ab.png">
 
-##    
+----   
 
 ### Contact › shayaneivazkhani@yahoo.se
 
