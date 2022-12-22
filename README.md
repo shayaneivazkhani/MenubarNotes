@@ -1,11 +1,8 @@
 ![arthur-yao-8P_8v-NKDrY-unsplash copy 2](https://user-images.githubusercontent.com/105381967/196203396-0c39c698-e2d9-4d75-a7fe-05aaf0468a9a.jpg)
 
+available at [App Store](https://apps.apple.com/se/app/menubar-notes/id6444069615?l=en&mt=12)
+
 ##### ![version: 1](https://img.shields.io/badge/version-2.3.0-success) 
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-![197361326-b9e4ecc3-0571-4a64-9edc-ba5c01cb67f0](https://user-images.githubusercontent.com/105381967/209121953-f69ddfbb-e1ba-427d-8800-c85647984cff.jpeg)
-
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
