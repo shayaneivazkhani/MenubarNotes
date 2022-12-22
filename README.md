@@ -14,7 +14,7 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 
 
 
-
+ 
 ## Basic String Transformation features 
 
 ##### In some applications, macOS´s own String transformation options are not available
