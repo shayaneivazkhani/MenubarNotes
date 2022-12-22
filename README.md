@@ -44,6 +44,8 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 
 ---
 
+#### [Terms of Use](/terms-of-use.md)
+
 #### [Privacy](https://www.privacypolicies.com/live/dfe505d1-d655-4d0e-a6f5-d9175eb8dc6d)
 
 #### [Third-Party Licenses](/License.md)
