@@ -24,7 +24,7 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-## Headsup, Consequences & Buggs💥
+## Headsup💥
 
 * The SHOW/SEARCH function is case-sensitive.
 
