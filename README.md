@@ -5,14 +5,14 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 
 ##### ![version: 1](https://img.shields.io/badge/version-2.3.0-success) 
 
-----
+
 
 ## Markdown features 
 
 ![Screenshot 2022-08-28 at 03 01 17](https://user-images.githubusercontent.com/105381967/187053282-285f31bf-7a38-48d7-b95a-31b313615001.png)
 
 
-----
+
 
 
 ## Basic String Transformation features 
@@ -22,7 +22,7 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 ![CAPS-g](https://user-images.githubusercontent.com/105381967/188482690-6a230ebe-a83c-4bcf-b945-22b6fbf875e5.gif)
 
 
-----
+
 
 
 ## Headsup💥
@@ -31,7 +31,7 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 
 * <img width="1023" alt="190033358-438503e8-d276-4c3d-97e9-4b63af161f81" src="https://user-images.githubusercontent.com/105381967/197894946-91c1ac63-0ec3-4950-8649-547d6da972ab.png">
 
-----
+##  
 
 ### Contact › shayaneivazkhani@yahoo.se
 
