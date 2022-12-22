@@ -1,12 +1,12 @@
 ![arthur-yao-8P_8v-NKDrY-unsplash copy 2](https://user-images.githubusercontent.com/105381967/196203396-0c39c698-e2d9-4d75-a7fe-05aaf0468a9a.jpg)
 
-##### ![version: 1](https://img.shields.io/badge/version-2.1.0-success) 
+##### ![version: 1](https://img.shields.io/badge/version-2.3.0-success) 
 
 available at [App Store](https://apps.apple.com/se/app/menubar-notes/id6444069615?l=en&mt=12)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![Dark and Light copy 4 2 copy 10](https://user-images.githubusercontent.com/105381967/197361326-b9e4ecc3-0571-4a64-9edc-ba5c01cb67f0.jpeg)
+
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -32,8 +32,6 @@ available at [App Store](https://apps.apple.com/se/app/menubar-notes/id644406961
 ## Headsup, Consequences & Buggs💥
 
 * The SHOW/SEARCH function is case-sensitive.
-
-* ![Image001](https://user-images.githubusercontent.com/105381967/199981100-49380257-0b23-403b-8eda-8ccd16565c86.png)
 
 * <img width="1023" alt="190033358-438503e8-d276-4c3d-97e9-4b63af161f81" src="https://user-images.githubusercontent.com/105381967/197894946-91c1ac63-0ec3-4950-8649-547d6da972ab.png">
 
